@@ -1,4 +1,4 @@
-# rigger-in-browser-cell
+# trigger-in-browser-cell
 Criação de trigger em uma célula do browser criando um evento leave que não existe no appbuilder
 # Variáveis utilizadas
 As Váriaveis são declaradas na seção definitions do appbuilder <br>
